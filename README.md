@@ -1,5 +1,6 @@
 # BBN-dice-simulation
 Dice simulation program for BBN (a VTR game)
+
 Code written by kraken05doo, licensed under GNU GPL v3.0
 
 ## How to use
