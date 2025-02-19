@@ -10,9 +10,9 @@ Step 2 - click on each file and click on the download button (an arrow pointing 
 
 Step 3 - create a new folder somewhere on your computer (e.g. on your Desktop), locate these files in your downloads folder and copy them to the new folder.
 
-Step 4 - run the file "bbnDiceSimulator.exe". It will open a terminal, where you input the desired number of trials, pool, and number of rolls per trial. It will take ~0.1s for 10^6 trials.
+Step 4 - run the file "bbnDiceSimulator.exe". It will open a terminal, where you input the desired number of trials, pool, and number of rolls per trial. It will take ~0.1s for 10^6 trials. Note: Windows will complain at you for running a .exe file, click "More info" then "Run".
 
-Step 5 - run the file "grapher.exe". It will open a terminal and take about 20 seconds.
+Step 5 - run the file "grapher.exe". It will open a terminal and take about 20 seconds. You don't need to type anything for this program. Note: Windows will complain at you for running a .exe file, click "More info" then "Run".
 
 Step 6 - there will now be a file in the folder called "BBN_successes_distribution.png", which is a histogram of the simulated data.
 
