@@ -4,7 +4,7 @@ Dice simulation program for BBN (a VTR game)
 Code written by kraken05doo, licensed under GNU GPL v3.0
 
 ## How to use
-Step 1 - navigate to the folder "bbnDiceSimulator", which should contain 3 files - "bbnDiceSimulator.exe", "grapher.exe", and a third file not needed for this.
+Step 1 - navigate to the folder "bbnDiceSimulation" on this page, which should contain 3 files - "bbnDiceSimulator.exe", "grapher.exe", and a third file not needed for this.
 
 Step 2 - click on each file and click on the download button (an arrow pointing down next to a button named "Raw" in the top right hand side).
 
