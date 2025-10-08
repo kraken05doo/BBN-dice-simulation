@@ -1,6 +1,8 @@
 # BBN-dice-simulation
 Dice simulation program for BBN (a VTR game)
 
+Note: This program has a few issues which haven't been fixed, it doesn't entirely accurately simulate BBN roles
+
 Code written by kraken05doo, licensed under GNU GPL v3.0
 
 ## How to use
